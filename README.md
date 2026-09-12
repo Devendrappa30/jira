@@ -279,3 +279,7 @@ Areas of focus:
 This project is licensed under the MIT License.
 
 See the [`LICENSE`](LICENSE) file for details.
+
+## Jira Service Management Help Center
+The website now links to the DevAxis Help Center at:
+https://devaxisconsulting.atlassian.net/servicedesk/customer/portals
